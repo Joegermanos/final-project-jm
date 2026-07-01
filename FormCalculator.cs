@@ -4,7 +4,7 @@ using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace RH
+namespace djoe
 {
     public partial class FormCalculator : Form
     {

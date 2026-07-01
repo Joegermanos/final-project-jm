@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace RH
+namespace djoe
 {
     public partial class FormGuess : Form
     {
